@@ -1,6 +1,6 @@
-## Prediction-of-Forest-Fires-in-Northern-Portugal
+# Prediction-of-Forest-Fires-in-Northern-Portugal
 
-# Background
+## Background
 I chose to use a dataset that studies the size of forest fires based on a variety of predictors from UCI’s machine learning repository (data was collected in Northern Portugal).
 
 My goal is to build data analysis models to determine predictors in the dataset that could be used to predict how large a forest fire will be. The response variable is the area measured in hectares (ha: 1 ha = 10,000 meters^2) a fire was able to burn before being put out.
